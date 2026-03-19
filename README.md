@@ -49,3 +49,5 @@ python ollama_example.py
 
 # Screenshots
 Screenshots of outputs are stored in the `screenshots` folder.
+
+### Note:OpenAI API was replaced with Groq due to quota limitations.

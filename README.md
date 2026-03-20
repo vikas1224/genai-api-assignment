@@ -51,3 +51,11 @@ python ollama_example.py
 Screenshots of outputs are stored in the `screenshots` folder.
 
 ### Note:OpenAI API was replaced with Groq due to quota limitations.
+
+## Notes
+
+- API keys are not included in the code for security reasons. Publicly exposing API keys can lead to misuse, so placeholders like "YOUR_API_KEY" are used instead.
+
+- For execution and screenshots, valid API keys were used locally and then removed before pushing to GitHub.
+
+- Hugging Face API showed partial functionality due to changes in endpoints and authentication issues. The code structure is correct, but responses may vary depending on API availability.
